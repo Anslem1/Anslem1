@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andrewanslem1@gmail.com**
 
-- ⚡ Fun fact **Did you know that there is a species of bird called the common swift that can stay airborne for up to 10 months straight without ever landing?**
+- ⚡ Fun fact **Did you know that there is a species of bird called the common swift that can stay airborne for up to 10 months straight without ever landing? bet you did not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
