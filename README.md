@@ -1,7 +1,7 @@
 <h1 align="center">Yo!👋, I'm Anyanwu Chidiebube</h1>
 <h3 align="center">A Fullstack by day, full snacks by night - I code like a ninja and snack like a pro</h3>
 
-- 🌱 I’m currently learning **NextJS, Youtube**
+- 🌱 I’m currently learning **NextJS from Youtube**
 
 - 👨‍💻 All of my projects are available at [https://ccxxiv.vercel.app/](https://ccxxiv.vercel.app/)
 
